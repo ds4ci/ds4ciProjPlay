@@ -1,0 +1,10 @@
+Package: ds4ciProjPlay
+Type: Package
+Title: Place to play with RStudio / Hadley's project stuff (w/ git)
+Version: 1.0
+Date: 2015-02-17
+Author: Jim P
+Maintainer: Jim <jim@ds4ci.org>
+Description: Check out project directory structure within context of
+RStudio and Hadley's conventions.
+License: CC0
