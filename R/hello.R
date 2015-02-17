@@ -1,0 +1,1 @@
+hello <- function(to_who = "World") cat("Hello", to_who, \n)
