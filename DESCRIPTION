@@ -3,7 +3,7 @@ Type: Package
 Title: Play with ds4ci project structure, RStudio/Hadley package tools, and github
 Version: 0.1.0
 Date: 2015-02-15
-Author: Jim Porzak (jim@ds4ci.org)
-Maintainer: Jim Porzak (jim@ds4ci.org)
+Author: Jim Porzak <jim@ds4ci.org>
+Maintainer: Jim Porzak <jim@ds4ci.org>
 Description: This is the palce to try ideas before using in a real project.
 License: CC0
