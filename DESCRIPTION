@@ -7,3 +7,4 @@ Author: Jim Porzak <jim@ds4ci.org>
 Maintainer: Jim Porzak <jim@ds4ci.org>
 Description: This is the palce to try ideas before using in a real project.
 License: CC0
+LazyData: true
